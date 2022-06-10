@@ -10,7 +10,7 @@ pip install AI_project
 Usage
 ------
 ```
-print("AI를 같이 공부해요!")
+print("더 열심히 배우고 발전하는 모습 보이도록 하겠습니다!")
 ```
 Image
 -----
